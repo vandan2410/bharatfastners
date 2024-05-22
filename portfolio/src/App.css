@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home{
+    background-image: url("./assests/bg.png");
+}
+
+.navbar{
+    background-image: url("../src/assests/Rectangle.png");
+}
+
+.center
+{
+    background-image: url("../src/assests/Rectangle.png");
+}
+
+.reactangle
+{
+    background-image: url("../src/assests/Rectangle.png");
+   
+}
+.ceo{
+    background-image: url("../src/assests/ceo.png");
+    background-size: cover ;
+}
+.core{
+    background-image: url("../src/assests/core.png");
+    background-size: cover ;
+}
+
+.business{
+    background-image: url("../src/assests/bussiness.png");
+    background-size: cover;
+}
+
+.contact{
+    background-image: url("../src/assests/contact.png");
+    background-size: cover;
+}
